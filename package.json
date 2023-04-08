@@ -1,0 +1,24 @@
+{
+  "name": "reduceslicevsmapjoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:bench": "node ./tests/1_bench.js",
+    "test:performance": "node ./tests/2_performance.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janice143/reduceSliceVSMapJoin.git"
+  },
+  "author": "iaineisalsoyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janice143/reduceSliceVSMapJoin/issues"
+  },
+  "homepage": "https://github.com/janice143/reduceSliceVSMapJoin#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "faker": "^5.5.3"
+  }
+}
