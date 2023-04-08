@@ -36,7 +36,3 @@ message.warning(customMsg)
 ## 结论
 
 从可读性将，map 会好一点。从性能讲，reduce 更好一点。
-
-## 结论
-
-从可读性将，map 会好一点。从性能讲，reduce 更好一点。
